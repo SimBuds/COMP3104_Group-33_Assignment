@@ -1,0 +1,13 @@
+devops:
+  course_info:
+    college:
+      - George Brown College
+    professors:
+      - Pritesh Patel
+    course_code:
+      - COMP 3104
+  importance:
+    - DevOps is a fundamental pillar in the workflow of any software project.
+    - DevOps practices streamline collaboration between development and operations teams.
+    - Learning DevOps enables you to automate repetitive tasks, ensuring efficiency.
+    
