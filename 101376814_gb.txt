@@ -1,0 +1,3 @@
+echo 'George Brown College'
+echo 'Located in Toronto'
+echo 'Close to Casa Loma'
