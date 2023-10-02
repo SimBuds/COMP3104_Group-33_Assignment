@@ -1,3 +1,0 @@
-echo 'DevOps will teach you how to use tools in the industry'
-echo 'Also reviewing any gaps from the first 4 semesters.'
-echo 'DevOps is Fun!'
