@@ -5,3 +5,5 @@
 - how to commit files
 
 I need to make 9 more commits
+
+This is my 8th commit
