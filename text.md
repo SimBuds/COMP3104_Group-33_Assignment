@@ -4,3 +4,4 @@
 - how to stage files
 - how to commit files
 - setup of travis ci
+- running of tests on push
