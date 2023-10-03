@@ -8,3 +8,4 @@
 
 ## What I'd like to learn
 1. Benefits of travis ci vs github actions
+2. What are the limitations of github action and travis ci
