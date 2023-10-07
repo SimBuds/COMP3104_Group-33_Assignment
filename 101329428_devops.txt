@@ -2,3 +2,5 @@
 This course teaches Devops principles like version control and other tools of the software industry.
 
 Change 1: Important for getting a job in the industry
+
+Change 2: Will make onboarding much easier when you join your first company
