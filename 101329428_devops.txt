@@ -1,0 +1,2 @@
+
+This course teaches Devops principles like version control and other tools of the software industry.
