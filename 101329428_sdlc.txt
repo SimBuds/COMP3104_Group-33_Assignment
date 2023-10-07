@@ -3,3 +3,5 @@ It is important to learn DevOps as it teaches you the tools you will learn as yo
 Change 1:  Understanding how large projects are coordinated is a valuable skill.
 
 Change 2: It will allow you to work more efficiently and make less mistakes.
+
+Change 3: The key to getting good with it is practice.
