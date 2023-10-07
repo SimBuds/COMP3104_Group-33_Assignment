@@ -1,3 +1,5 @@
 George Brown College is a college located in Toronto Ontario. They have three campuses located within the city. They offer a wide variety of programs providing practical skills.
 
 Change 1: The location I attend is the Casa Loma Campus.
+
+Change 2: The other campus is the St. James Campus
