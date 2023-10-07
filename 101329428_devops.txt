@@ -7,3 +7,6 @@ Change 2: Will make onboarding much easier when you join your first company
 
 Change 3: expected for you to know the basics.
 
+Change 4: an essential skill on top of the ability to code
+
+
