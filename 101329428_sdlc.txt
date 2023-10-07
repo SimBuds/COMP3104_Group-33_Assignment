@@ -1,1 +1,3 @@
 It is important to learn DevOps as it teaches you the tools you will learn as you work in tech.
+
+Change 1:  Understanding how large projects are coordinated is a valuable skill.
